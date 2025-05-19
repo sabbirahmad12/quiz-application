@@ -13,6 +13,7 @@ A robust, Excel-based quiz management system designed for educational institutio
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
+- [Login_Credentials](##login-credentials)
 - [System Architecture](#system-architecture)
 - [Installation](#installation)
 - [Usage Guide](#usage-guide)
@@ -53,6 +54,31 @@ The Quiz Application is a comprehensive solution for educational institutions se
 - **Performance Tracking**
   - View personal quiz history
   - Track progress over time
+  - Compare performance with peers
+
+## 🔐 Login Credentials
+
+### Teacher Login
+- **Username**: `teacher`
+- **Password**: `1234`
+- **Access**: Teacher Dashboard
+- **Features**:
+  - Quiz Management (create, customize, delete quizzes)
+  - Add multiple-choice questions
+  - Set time limits and scoring rules
+  - View student performance metrics
+  - Access leaderboard data
+  - Generate performance reports
+
+### Student Login
+- **Username**: `student`
+- **Password**: `1234`
+- **Access**: Student Interface
+- **Features**:
+  - Take available quizzes
+  - Get immediate score feedback
+  - View personal quiz history
+  - Track progress
   - Compare performance with peers
 
 ## 🏗 System Architecture
