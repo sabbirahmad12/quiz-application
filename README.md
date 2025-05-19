@@ -13,7 +13,7 @@ A robust, Excel-based quiz management system designed for educational institutio
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
-- [Login_Credentials](##login-credentials)
+- [Login_Credentials](#login-credentials)
 - [System Architecture](#system-architecture)
 - [Installation](#installation)
 - [Usage Guide](#usage-guide)
