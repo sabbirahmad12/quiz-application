@@ -94,14 +94,14 @@ The application utilizes a modular Excel-based storage system:
 | `leaderboard.xlsx` | Performance Tracking | Scores, timestamps, rankings |
 
 ### Technical Stack
-- **Backend**: Python 3.x
+- **Backend**: `Python 3.x`
 - **Data Storage**: Excel (openpyxl)
 - **File Structure**: Modular, maintainable architecture
 
 ## 🚀 Installation
 
 ### Prerequisites
-- Python 3.x
+- `Python 3.x`
 - pip (Python package manager)
 
 ### Setup Steps
